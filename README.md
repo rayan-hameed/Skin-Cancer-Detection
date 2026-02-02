@@ -88,16 +88,6 @@ echo VITE_SUPABASE_ANON_KEY=your_supabase_key >> .env
 
 ## 💻 Running Locally
 
-### Quick Start (Windows)
-```bash
-# From the root directory
-.\run_servers.bat
-```
-
-This will start both servers in separate windows:
-- Frontend: http://localhost:5173
-- Backend: http://127.0.0.1:5000
-
 ### Manual Start
 
 **Backend:**
